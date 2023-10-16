@@ -1,4 +1,4 @@
-from ModuloListas.identificacaoDeFuncoes import*
+from moduloFuncoes.IdentificacaoDeFuncoes import*
 
 minhaLista = []
 print('Preenchendo')
